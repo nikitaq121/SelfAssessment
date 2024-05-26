@@ -1,9 +1,9 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model k
-  - Modeling k
-  - Subject domain k
+  - Model: 🎓 known
+  - Modeling: 🎓 known
+  - Subject domain: 🎓 known
   - Algorithm: 🖐️ used
   - Syntax: 🖐️ used
   - Semantics: 🖐️ used
@@ -41,13 +41,13 @@
   - Expression: 🖐️ used
   - Heap
   - Function: 🖐️ used
-  - Procedure: k
+  - Procedure: 🎓 known
   - Method: 🖐️ used
   - Class: 🖐️ used
   - Prototype: 🎓 known
   - Event: 🖐️ used
-  - Type u
-  - Flag u
+  - Type: 🖐️ used
+  - Flag: 🖐️ used
   - Lexical scope: 🖐️ used
   - Code block: 🖐️ used
   - Conditions: 🖐️ used
@@ -98,8 +98,8 @@
   - Composition
   - Pipe
   - Memoize
-  - Wrapper k
-  - Functor k
+  - Wrapper: 🎓 known
+  - Functor: 🎓 known
   - Monad
   - Monoid
   - Generator
@@ -185,25 +185,25 @@
   - Unreachable code: 🎓 known
   - Duplicate code: 🎓 known
   - Premature optimization
-  - Micro-optimization h
-  - Nested loops h
+  - Micro-optimization: 👂 heard
+  - Nested loops: 👂 heard
   - Long method/function/procedure: 🎓 known
   - Long inheritance: 🎓 known
   - Large class/file: 🎓 known
   - Too many parameters: 🎓 known
   - Pass-through parameters: 🎓 known
-  - Accumulate and fire h
+  - Accumulate and fire: 👂 heard
   - Use switch/case: 🎓 known
   - Temporary field: 🎓 known
   - Handle object as instances and hashes at the same time: 🎓 known
   - Use fields instead of arguments: 🎓 known
   - Data clump
   - Feature envy
-  - Monkey patch h
+  - Monkey patch: 👂 heard
   - Yo-yo problem: 🎓 known
 - Runtimes and virtual machines
   - Bytecode: 🎓 known
-  - V8: u
+  - V8: 🖐️ used
   - VJM
   - CLR
   - Mono

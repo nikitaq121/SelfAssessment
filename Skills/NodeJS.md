@@ -15,18 +15,18 @@
   - ECMAScript modules: 🖐️ used
   - Module `node:module`: 🎓 known
   - Caching in CJS and ESM: 🎓 known
-  - Modules as singletons: k
-  - Contexts and scripts module `node:vm` h
+  - Modules as singletons: 🎓 known
+  - Contexts and scripts module `node:vm`: 👂 heard
   - Dependencies: `npm`, `node_modules`: 🖐️ used
   - Files `package.json`, `package-lock.json`: 🖐️ used
-  - Module-based permissions model 
+  - Module-based permissions model
   - Isolation with modularity
   - Dependency injection: 🎓 known
   - DI containers: 🎓 known
   - Coupling and cohesion: 👂 heard
   - Framework agnostic approach: 👂 heard
 - Environment
-  - Command line arguments k
+  - Command line arguments: 🎓 known
   - Node.js CLI: 🖐️ used
   - Process-based permissions
   - Graceful shutdown
@@ -96,7 +96,7 @@
   - CI/CD: 🖐️ used
   - Readable: 🎓 known
   - Writable: 🎓 known
-  - Transform h
+  - Transform: 👂 heard
   - Back pressure
   - Buffer
   - Console: 🖐️ used
@@ -123,7 +123,7 @@
   - Flame graph
   - Memory leaks
   - Resource leaks
-  - Data race h
+  - Data race: 👂 heard
 - Integrations and bindings
   - Native addons
   - `C` and `C++` addons

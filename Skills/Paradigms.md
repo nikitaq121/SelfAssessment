@@ -10,12 +10,12 @@
   - Object-oriented programming: 🖐️ used
   - Object-based programming: 🎓 known
   - Generic programming: 👂 heard
-  - Concurrent computing h
+  - Concurrent computing: 👂 heard
   - Asynchronous programming: 🖐️ used
-  - Parallel programming h
+  - Parallel programming: 👂 heard
   - Reactive programming: 👂 heard
   - Functional-reactive (FRP)
-  - Automata-based programming h
+  - Automata-based programming: 👂 heard
   - Domain-specific languages
   - Multi-paradigm programming: 🖐️ used
   - Metaprogramming
@@ -49,14 +49,14 @@
   - Reflection: 👂 heard
   - The diamond problem: 👂 heard
 - GRASP
-  - Information expert h
-  - Creator h
-  - Controller h
-  - Indirection h
-  - Low coupling h
+  - Information expert: 👂 heard
+  - Creator: 👂 heard
+  - Controller: 👂 heard
+  - Indirection: 👂 heard
+  - Low coupling: 👂 heard
   - High cohesion
-  - Protected variations h
-  - Pure fabrication h
+  - Protected variations: 👂 heard
+  - Pure fabrication: 👂 heard
 - SOLID
   - Single-responsibility principle (SRP): 👂 heard
   - Open–closed principle (OCP): 👂 heard
@@ -73,10 +73,10 @@
   - Facade
   - Proxy: 👂 heard
   - Chain of Responsibility
-  - Command k
+  - Command: 🎓 known
   - Iterator: 🖐️ used
-  - State h
-  - Bridge k
+  - State: 👂 heard
+  - Bridge: 🎓 known
   - Builder
   - Prototype
   - Composite
@@ -85,7 +85,7 @@
   - Mediator
   - Memento
   - Template Method
-  - Visitor 
-  - Reactor k
+  - Visitor
+  - Reactor: 🎓 known
   - Active object
-  - Delegation h
+  - Delegation: 👂 heard

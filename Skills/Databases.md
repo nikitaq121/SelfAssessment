@@ -34,7 +34,7 @@
   - SQL functions: 🎓 known
   - Materialized views
   - Replications
-  - Virtualization h
+  - Virtualization: 👂 heard
 - SQL
   - `SELECT`: 🖐️ used
   - `INSERT`: 🖐️ used
@@ -80,10 +80,10 @@
   - MongoDB: 🎓 known
   - Memcached: 👂 heard
   - Riak
-  - DB2 h
+  - DB2: 👂 heard
   - SQLite: 👂 heard
   - DynamoDB: 👂 heard
-  - Firebase h
+  - Firebase: 👂 heard
 - Data engineering
   - Data warehousing
   - Business intelligence
