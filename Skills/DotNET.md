@@ -10,8 +10,8 @@
   - I/O-bound, CPU-bound tasks
   - Real-time applications with SignalR
 - Modularity and Dependencies
-  - .NET assemblies
-  - NuGet package management
+  - .NET assemblies: 🎓 known
+  - NuGet package management: 🎓 known
   - Dependency management in .NET
   - Dependency Injection in .NET
   - Inversion of Control (IoC)
@@ -96,10 +96,10 @@
   - Building web applications with F# and Giraffe or Saturn
   - Testing with `FsUnit`
 - VB.NET Development
-  - VB.NET syntax and language fundamentals
+  - VB.NET syntax and language fundamentals: 🎓 known
   - Event-driven programming
   - COM interop and P/Invoke
-  - XML and file handling
+  - XML and file handling: 🎓 known
   - Office automation and VSTO
   - Migration strategies for legacy VB6 applications
 - C++/CLI Development Development
