@@ -1,16 +1,16 @@
 ## .NET
 
 - Core Concepts and Internals
-  - Strengths and weaknesses of .NET
+  - Strengths and weaknesses of .NET k
   - Stateful and stateless services
   - Asynchronous and synchronous programming
   - Task-based asynchronous pattern
-  - Garbage collection in .NET
-  - .NET runtime versions and support
+  - Garbage collection in .NET k
+  - .NET runtime versions and support k
   - I/O-bound, CPU-bound tasks
   - Real-time applications with SignalR
 - Modularity and Dependencies
-  - .NET assemblies
+  - .NET assemblies 
   - NuGet package management
   - Dependency management in .NET
   - Dependency Injection in .NET
@@ -19,8 +19,8 @@
   - Middleware and pipeline configuration
   - Modular applications
 - Environment and Tools
-  - Command line interface (CLI) tools
-  - .NET CLI
+  - Command line interface (CLI) tools k
+  - .NET CLI k
   - Windows Services and Linux Daemons
   - Hosting and Deployment models
   - IIS and Kestrel web server
@@ -78,7 +78,7 @@
   - Kubernetes for orchestration
   - Serverless computing
 - C# Development
-  - C# syntax and language fundamentals
+  - C# syntax and language fundamentals k
   - Advanced C# features (LINQ, async/await, delegates, events)
   - Reflection and dynamic programming
   - Data types and collections
@@ -96,7 +96,7 @@
   - Building web applications with F# and Giraffe or Saturn
   - Testing with `FsUnit`
 - VB.NET Development
-  - VB.NET syntax and language fundamentals
+  - VB.NET syntax and language fundamentals 
   - Event-driven programming
   - COM interop and P/Invoke
   - XML and file handling
@@ -120,9 +120,9 @@
   - .NET MAUI / Xamarin
   - Interoperability between managed code and iOS/Android API
 - Game development
-  - Unity
+  - Unity u
 - Web development
-  - ASP.NET Core
+  - ASP.NET Core u
   - Blazor
   - Razor Syntax
   - RESTful API development
