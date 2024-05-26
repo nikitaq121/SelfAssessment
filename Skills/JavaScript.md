@@ -31,7 +31,7 @@
   - `window`: 🎓 known
   - Getters and setters: 🖐️ used
   - `__proto__`: 🎓 known
-  - `prototype`k
+  - `prototype` k
   - Equality operators: 🖐️ used
   - Logical operators: 🖐️ used
   - Logical Assignment: 🖐️ used
@@ -84,10 +84,10 @@
   - Function declaration: 🖐️ used
   - Function expression: 🖐️ used
   - Default parameters: 🙋 explained
-  - Functional object
-  - `Function.prototype.call`
-  - `Function.prototype.bind`
-  - `Function.prototype.apply`
+  - Functional object k
+  - `Function.prototype.call` k
+  - `Function.prototype.bind` k
+  - `Function.prototype.apply` k
   - `return`: 🖐️ used
 - Data structures
   - `Array`: 🖐️ used
@@ -114,7 +114,7 @@
   - `console`: 🖐️ used
   - Timers: 🖐️ used
 - Infrastructure
-  - V8: 🎓 known
+  - V8: u
   - Node.js: 🖐️ used
   - npm: 🖐️ used
   - prettier: 🖐️ used
