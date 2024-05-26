@@ -1,100 +1,100 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
+  - Modularity: 🖐️ used
+  - Components: 🖐️ used
+  - Directories: 🖐️ used
+  - GRASP: 👂 heard
+  - SOLID: 🎓 known
+  - GoF patterns: 👂 heard
   - CQS
-  - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
+  - Leaking abstractions: 👂 heard
+  - Multiparadigm code: 👂 heard
+  - Contract programming: 👂 heard
+  - Platform-agnostic: 👂 heard
   - Transport-agnostic
-  - Framework-agnostic
-  - Code coverage
+  - Framework-agnostic: 👂 heard
+  - Code coverage: 👂 heard
   - Cohesion
   - Coupling
-  - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Cyclomatic complexity: 👂 heard
+  - Reliability: 🖐️ used
+  - Quality: 🖐️ used
+  - Availability: 🖐️ used
+  - Flexibility: 🖐️ used
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer
-  - Domain-specific language (DSL)
-  - System vs applied code
+  - Isolation between layer: 👂 heard
+  - Domain-specific language (DSL): 👂 heard
+  - System vs applied code: 👂 heard
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
   - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
-  - Domain-driven design (DDD)
+  - Inversion of control (IoC): 👂 heard
+  - Dependency injection (DI): 🖐️ used
+  - Clean architecture: 👂 heard
+  - Domain-driven design (DDD): 🖐️ used
   - Pub/sub
-  - Message brocker
-  - Agent
+  - Message brocker: 👂 heard
+  - Agent: 👂 heard
   - Service locator
-  - Message Queue (MQ)
+  - Message Queue (MQ): 🖐️ used
   - CQRS
   - Event sourcing
-  - E-R data modeling
-  - Entity-relationship diagram
+  - E-R data modeling: 👂 heard
+  - Entity-relationship diagram: 👂 heard
   - IDEF1X
   - UML
   - Work breakdown structure
-  - Budget estimation
-  - Distributed systems
+  - Budget estimation: 👂 heard
+  - Distributed systems: 🖐️ used
   - High-intensive computing
-  - Load balancing
-  - Gateways
-  - On-premises
+  - Load balancing: 👂 heard
+  - Gateways: 🖐️ used
+  - On-premises: 👂 heard
   - IaaS
   - PaaS
   - SaaS
   - FaaS clouds
-  - Serverless
-  - Vendor lock-in
-  - Bus factor
+  - Serverless: 🎓 known
+  - Vendor lock-in: 👂 heard
+  - Bus factor: 👂 heard
 - Solution architecture
-  - A software requirements specification (SRS)
-  - Solution visions
-  - Solution capabilities
-  - System design
-  - Process modelling
-  - Data modelling
-  - Solution components
-  - Risk assessment
-  - Non Functional Requirements (NFR)
-  - Clouds
+  - A software requirements specification (SRS): 👂 heard
+  - Solution visions: 👂 heard
+  - Solution capabilities: 👂 heard
+  - System design: 🎓 known
+  - Process modelling: 👂 heard
+  - Data modelling: 👂 heard
+  - Solution components: 👂 heard
+  - Risk assessment: 👂 heard
+  - Non Functional Requirements (NFR): 👂 heard
+  - Clouds: 🎓 known
   - BPMN
-  - Low-code
-  - No-code
+  - Low-code: 👂 heard
+  - No-code: 👂 heard
   - Metric
   - Metric abuse
-  - ACID
-  - CAP theorem
-  - Single source of truth (SSOT)
-- Enterprise architecture
-  - Understanding business needs
-  - Enterprise strategy
-  - Integration with subsystems
-  - Enterprise vision
-  - Enterprise capabilities
-  - Project scope
-  - Enterprise service bus
-  - Service-oriented architecture
-  - Microservices
+  - ACID: 👂 heard
+  - CAP theorem: 👂 heard
+  - Single source of truth (SSOT): 🎓 known
+- Enterprise architecture h
+  - Understanding business needs: 🎓 known
+  - Enterprise strategy: 👂 heard
+  - Integration with subsystems: 👂 heard
+  - Enterprise vision: 👂 heard
+  - Enterprise capabilities: 👂 heard
+  - Project scope: 👂 heard
+  - Enterprise service bus: 👂 heard
+  - Service-oriented architecture: 👂 heard
+  - Microservices: 🖐️ used
   - Process choreography
   - Service orchestration
   - Data warehouse
-  - Business Intelligence
+  - Business Intelligence: 👂 heard
   - OLAP
   - OLTP
-  - Conways Law
-  - Quality assurance
-  - Engineering Hygiene
+  - Conways Law: 👂 heard
+  - Quality assurance: 🎓 known
+  - Engineering Hygiene: 🎓 known

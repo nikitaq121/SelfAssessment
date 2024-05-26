@@ -1,12 +1,12 @@
 ## .NET
 
 - Core Concepts and Internals
-  - Strengths and weaknesses of .NET
+  - Strengths and weaknesses of .NET: 🎓 known
   - Stateful and stateless services
   - Asynchronous and synchronous programming
   - Task-based asynchronous pattern
-  - Garbage collection in .NET
-  - .NET runtime versions and support
+  - Garbage collection in .NET: 🎓 known
+  - .NET runtime versions and support: 🎓 known
   - I/O-bound, CPU-bound tasks
   - Real-time applications with SignalR
 - Modularity and Dependencies
@@ -19,8 +19,8 @@
   - Middleware and pipeline configuration
   - Modular applications
 - Environment and Tools
-  - Command line interface (CLI) tools
-  - .NET CLI
+  - Command line interface (CLI) tools: 🎓 known
+  - .NET CLI: 🎓 known
   - Windows Services and Linux Daemons
   - Hosting and Deployment models
   - IIS and Kestrel web server
@@ -78,7 +78,7 @@
   - Kubernetes for orchestration
   - Serverless computing
 - C# Development
-  - C# syntax and language fundamentals
+  - C# syntax and language fundamentals: 🎓 known
   - Advanced C# features (LINQ, async/await, delegates, events)
   - Reflection and dynamic programming
   - Data types and collections
@@ -120,9 +120,9 @@
   - .NET MAUI / Xamarin
   - Interoperability between managed code and iOS/Android API
 - Game development
-  - Unity
+  - Unity: 🖐️ used
 - Web development
-  - ASP.NET Core
+  - ASP.NET Core: 🖐️ used
   - Blazor
   - Razor Syntax
   - RESTful API development
