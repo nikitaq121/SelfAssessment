@@ -10,9 +10,9 @@
   - I/O-bound, CPU-bound tasks
   - Real-time applications with SignalR
 - Modularity and Dependencies
-  - .NET assemblies
-  - NuGet package management
-  - Dependency management in .NET
+  - .NET assemblies k
+  - NuGet package management k
+  - Dependency management in .NET 
   - Dependency Injection in .NET
   - Inversion of Control (IoC)
   - IoC containers in .NET
@@ -79,7 +79,7 @@
   - Serverless computing
 - C# Development
   - C# syntax and language fundamentals: 🎓 known
-  - Advanced C# features (LINQ, async/await, delegates, events)
+  - Advanced C# features (LINQ, async/await, delegates, events) 
   - Reflection and dynamic programming
   - Data types and collections
   - Generics and extension methods
@@ -96,10 +96,10 @@
   - Building web applications with F# and Giraffe or Saturn
   - Testing with `FsUnit`
 - VB.NET Development
-  - VB.NET syntax and language fundamentals
+  - VB.NET syntax and language fundamentals k
   - Event-driven programming
   - COM interop and P/Invoke
-  - XML and file handling
+  - XML and file handling k
   - Office automation and VSTO
   - Migration strategies for legacy VB6 applications
 - C++/CLI Development Development
