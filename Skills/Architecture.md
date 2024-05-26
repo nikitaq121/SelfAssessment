@@ -14,9 +14,9 @@
   - Platform-agnostic: 👂 heard
   - Transport-agnostic
   - Framework-agnostic: 👂 heard
-  - Code coverage: 👂 heard
-  - Cohesion
-  - Coupling
+  - Code coverage: k
+  - Cohesion k
+  - Coupling k
   - Cyclomatic complexity: 👂 heard
   - Reliability: 🖐️ used
   - Quality: 🖐️ used
@@ -27,15 +27,15 @@
   - Isolation between layer: 👂 heard
   - Domain-specific language (DSL): 👂 heard
   - System vs applied code: 👂 heard
-  - Multilayer approach
+  - Multilayer approach h
   - Hexagonal architecture
-  - Separation of concerns (SoC)
+  - Separation of concerns (SoC) h
   - Metaprogramming
   - Inversion of control (IoC): 👂 heard
   - Dependency injection (DI): 🖐️ used
   - Clean architecture: 👂 heard
   - Domain-driven design (DDD): 🖐️ used
-  - Pub/sub
+  - Pub/sub k
   - Message brocker: 👂 heard
   - Agent: 👂 heard
   - Service locator
@@ -76,9 +76,9 @@
   - No-code: 👂 heard
   - Metric
   - Metric abuse
-  - ACID: 👂 heard
+  - ACID: k
   - CAP theorem: 👂 heard
-  - Single source of truth (SSOT): 🎓 known
+  - Single source of truth (SSOT): u
 - Enterprise architecture h
   - Understanding business needs: 🎓 known
   - Enterprise strategy: 👂 heard
