@@ -6,7 +6,7 @@
   - Non-blocking: 🖐️ used
   - Async I/O: 🖐️ used
   - Thread pool: 🎓 known
-  - Pattern Reactor: 👂 heard
+  - Pattern Reactor: k
   - CAS operations
   - epoll
   - kqueue
@@ -14,8 +14,8 @@
   - Event ports
   - libuv: 👂 heard
   - Race conditions: 👂 heard
-  - Dead locks
-  - Live locks
+  - Dead locks h
+  - Live locks h
   - Concurrent programming: 👂 heard
   - Parallel programming: 👂 heard
   - Actor Model
@@ -33,9 +33,9 @@
   - Async Generator: 🎓 known
   - Async Iterator: 🎓 known
   - Event: 🖐️ used
-  - Coroutine
+  - Coroutine h
   - Goroutine
-  - Signal
+  - Signal h
   - Stream: 👂 heard
   - Chain of responsibility: 🎓 known
   - Middleware: 🎓 known
@@ -49,8 +49,8 @@
 - Async abstractions interfaces
   - EventEmitter: 🖐️ used
   - Observable/Observer: 🎓 known
-  - Readable
-  - Writable
+  - Readable k
+  - Writable k
   - Transform
   - Async Pool: 🎓 known
   - Async Queue: 🎓 known
@@ -73,7 +73,7 @@
   - ref() and unref()
   - Error handling in async code: 👂 heard
   - Better stack traces with return await: 👂 heard
-  - JSON streaming serialization
+  - JSON streaming serialization h
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
